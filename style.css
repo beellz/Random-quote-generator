@@ -1,0 +1,50 @@
+* {
+    margin: 0 ;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+
+}
+
+
+
+.main {
+    background: #cccccc;
+    width: 550px;
+    height: 200px;
+    margin: 100px auto ;
+    position: relative;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.badge {
+    background: #ee6666;
+    color: white;
+    padding: 5px 10px;
+    font-family: sans-serif;
+    font-weight: bold;
+    position: absolute;
+    top: -15px;
+    left: 35%;
+
+}
+
+.btn {
+    margin: 30px auto ;
+    width: 100px;
+    height: 50px;
+   margin-left: 50vh;
+
+    position: absolute;
+}
+
+
+
+.quote {
+    font-family: sans-serif;
+    font-size: 25px;
+}
