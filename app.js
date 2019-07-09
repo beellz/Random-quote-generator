@@ -62,7 +62,7 @@ function great() {
     console.log(lifeQuotes.uniq)
  };
  
-
+great();
 // if rand (randomNUM == randomNUM){
 
 
