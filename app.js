@@ -59,7 +59,11 @@ function great() {
     
     var lifeQuotes = (quotes[randomNUM]);
     document.querySelector(".quote").innerHTML= lifeQuotes;
-  
+    console.log(lifeQuotes.uniq)
  };
  
 
+// if rand (randomNUM == randomNUM){
+
+
+// }
