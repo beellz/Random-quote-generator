@@ -47,8 +47,13 @@ body {
     font-size: 25px;
     margin-top: 30px;
     padding: 10px auto;
+    text-align: center;
+    
 }
 
+.quote li {
+    list-style: none;
+}
 
 .btn {
     left : 450px;
