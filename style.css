@@ -51,6 +51,7 @@ body {
     
 }
 
+/* using the hireachy to make the li bullet not visible  */
 .quote li {
     list-style: none;
 }
